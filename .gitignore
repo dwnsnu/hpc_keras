@@ -1,3 +1,7 @@
+auto_model
+image_classifier
+text_classifier
+my_dir
 *.gif
 text_encoder
 vision_encoder
