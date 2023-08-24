@@ -1,3 +1,4 @@
+*.gif
 text_encoder
 vision_encoder
 data
