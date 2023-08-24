@@ -1,3 +1,5 @@
+text_encoder
+vision_encoder
 data
 tensorflow_datasets
 PetImages
